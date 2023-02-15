@@ -1,8 +1,8 @@
 # baekjoon
 
 [python]----------------------     
-vim [파일이름].py
-python3 [파일이름].py
+vim [파일이름].py         
+python3 [파일이름].py         
 
 [python]----------------------      
 [DFS/BFS]----------------------             
