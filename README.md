@@ -37,4 +37,7 @@ https://www.acmicpc.net/workbook/view/459 (Python 배우기 (1~50) by 백준)
 
 오! 백준사이트측에서 "BOJhelp"라는 사이트를 알려줬다! (컴파일정보/실행/버전/답지내용)등 의 정보가 언어별로 있다!       
 https://help.acmicpc.net/language/info          
+
+덧셈하는데 별의별 신기한 방법으로 푸는 사람들이 있어서 가져와봤다.      
+https://velog.io/@dominergrace/%EB%B0%B1%EC%A4%80-2558%EB%B2%88 [파이썬] 백준 2558번 A+B - 2          
 초보문제먼저 풀기 --------------      
