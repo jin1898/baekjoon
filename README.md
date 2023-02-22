@@ -27,3 +27,10 @@ https://excelsior-cjh.tistory.com/entry/collections-%EB%AA%A8%EB%93%88-deque [co
 collections.deque 와 list 의 차이       
 ***
 [DFS/BFS]----------------------         
+[DFS/BFS]----------------------  
+
+
+초보문제먼저 풀기 --------------       
+어려워보여서 자꾸 포기하려고한다. 그래서 쉬운거부터하기로했다.        
+https://www.acmicpc.net/workbook/view/459 (Python 배우기 (1~50) by 백준)     
+초보문제먼저 풀기 --------------      
