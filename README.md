@@ -32,5 +32,9 @@ collections.deque 와 list 의 차이
 
 초보문제먼저 풀기 --------------       
 어려워보여서 자꾸 포기하려고한다. 그래서 쉬운거부터하기로했다.        
-https://www.acmicpc.net/workbook/view/459 (Python 배우기 (1~50) by 백준)     
+https://www.acmicpc.net/workbook/view/459 (Python 배우기 (1~50) by 백준)   
+
+
+오! 백준사이트측에서 "BOJhelp"라는 사이트를 알려줬다! (컴파일정보/실행/버전/답지내용)등 의 정보가 언어별로 있다!       
+https://help.acmicpc.net/language/info          
 초보문제먼저 풀기 --------------      
